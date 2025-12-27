@@ -5,6 +5,7 @@ NotebookLM Project
 
 Este repositório apresenta uma análise organizada da **Lei Complementar nº 214/2025**, que institui a nova estrutura tributária brasileira. O notebookLM reúne explicações, sínteses e contextualizações sobre os principais dispositivos legais, com foco em impactos práticos para empresas, profissionais e setores específicos.
 
+Link : https://notebooklm.google.com/notebook/0e34f4e2-f60f-4c53-933e-4728239a7256?authuser=1
 ---
 
 ## 🧭 Objetivo do Notebook
